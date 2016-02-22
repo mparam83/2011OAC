@@ -1,5 +1,7 @@
 ## Parliamentary Constituency Classification
-This repository holds code that attempts to replicate the 2011 area classification for parliamentary constituencies instead of output areas. Below is the original text included in the README by geogale, retained here because of the useful links and information it contains.
+This repository holds code that attempts to replicate the 2011 area classification for parliamentary constituencies instead of output areas. Note that the K-means clustering algorithm used by geogale is yet to be applied to my version of the constituency data. 
+
+Below is the original text included in the README by geogale, retained here because of the useful links and information it contains.
 
 ## 2011 Area Classification for Output Areas (the 2011 Output Area Classification or 2011 OAC)
 The 2011 OAC has been created through collaboration between the Office for National Statistics (ONS) and University College London (UCL). The 2011 OAC is a three-tiered hierarchical geodemographic classification of the UK built using only 2011 UK Census data at the Output Area / Small Area level. It consists of 8 Supergroups, 26 Groups and 76 Subgroups. 
